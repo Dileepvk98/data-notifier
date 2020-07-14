@@ -1,0 +1,5 @@
+notify_run
+selenium<3
+pyvirtualdisplay==0.2.1
+webbot
+pandas
